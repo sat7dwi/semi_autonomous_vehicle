@@ -7,4 +7,4 @@ to guide a vehicle through an obstacle free path in a safe manner. This is a com
 
 Youtube demo link: https://youtu.be/E2d0HV8RY6s
 
-For details go through the [project report](https://youtu.be/E2d0HV8RY6s)
+For details go through the [project report](https://github.com/sat7dwi/semi_autonomous_vehicle/blob/master/EE637A_Report.pdf)
