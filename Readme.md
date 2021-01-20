@@ -1,5 +1,5 @@
 # Modeling Semi-Autonomous Vehicle Driving for Indian Terrain
-CS637A Embedded & Cyber-Physical Systems course project
+CS637A Embedded & Cyber-Physical Systems course project - Designed conceptual behavior model of a semi-autonomous vehicle in the form of a state-flow graph and a physical model of the vehicle that autonomously plan an optimum path in presence of obstacles and follow it with good precision and presented a real-time demo of the same on synthetic environment.
 
 Modern passengers vehicles are quipped with computational, sensing and actuating capabilities which enable the design of systems that can autonomously 
 control the vehicle motion in order to assist the driver. In this project we intended to develop a safety system which utilizes a predictive controller
